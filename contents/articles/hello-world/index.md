@@ -1,5 +1,6 @@
 ---
-title: README
+title: Winning Startup Weekend 
+subtitle: This is the best test around
 author: the-wintersmith
 date: 2013-04-30
 template: article.jade
